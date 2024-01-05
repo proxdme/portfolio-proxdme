@@ -22,13 +22,14 @@
 
 
 
-  ![proxdme](C:\Users\Михаил\OneDrive\Рабочий стол\Миша\с новым годом.png)
+  [proxdme лайфхакер](https://lifehacker.ru/chto-takoe-markdown/)
+  
 
 
   ~~ну пожалуй и все~~
 
   :kissing_heart:
-  
+
 
 
 
